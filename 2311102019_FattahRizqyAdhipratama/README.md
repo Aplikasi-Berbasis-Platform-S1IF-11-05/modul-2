@@ -53,6 +53,7 @@ HTML bekerja menggunakan tag atau penanda yang ditulis di dalam tanda kurung sud
 Fattah Rizqy Adhipratama
 S1IF-11-05 -->
 
+```
 <!DOCTYPE html>
 <html lang="id">
 
@@ -89,6 +90,7 @@ S1IF-11-05 -->
     </table>
 </body>
 </html>
+```
 
 # Screenshoot Program
 ![alt text](<Screenshot (1147)-1.png>)
