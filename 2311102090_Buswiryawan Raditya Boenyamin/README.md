@@ -301,5 +301,5 @@ Bikin tampilan table dasar, tapi posisinya wajib persis di tengah layar. Nah, sy
 </html>
 ```
 Output:
-<img width="1901" height="961" alt="image" src="2311102090_Buswiryawan Raditya Boenyamin/Output/Output1.png" />
+<img width="1901" height="961" alt="image" src="/Output/Output1.png" />
 
