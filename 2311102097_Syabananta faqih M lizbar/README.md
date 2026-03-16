@@ -33,19 +33,31 @@
 
 <hr>
 
-## Dasar Teori
+# Dasar Teori
 
-HTML merupakan singkatan dari HyperText Markup Language, yaitu bahasa markup yang digunakan untuk membuat dan menyusun struktur halaman web. HTML berfungsi untuk menampilkan berbagai elemen pada halaman web seperti teks, gambar, tabel, formulir, dan multimedia.
+HTML (HyperText Markup Language) adalah bahasa markup standar yang digunakan
+untuk membangun struktur dan konten halaman web. Berbeda dengan bahasa
+pemrograman, HTML bekerja dengan cara mendefinisikan elemen-elemen menggunakan
+tag yang kemudian diinterpretasikan oleh browser untuk ditampilkan kepada pengguna.
 
-HTML bukan merupakan bahasa pemrograman, melainkan bahasa markup yang menggunakan tag untuk memberi struktur pada konten halaman web.
+Setiap elemen HTML dibungkus dalam tag pembuka dan tag penutup, seperti `<p>` untuk
+paragraf, `<h1>` untuk heading, dan `<table>` untuk tabel. Elemen-elemen ini dapat
+memiliki atribut yang memberikan informasi tambahan, seperti ukuran, warna, atau
+referensi tautan.
 
-HTML menjadi standar utama dalam pengembangan web yang diatur oleh World Wide Web Consortium dan WHATWG.
+HTML pertama kali diperkenalkan oleh Tim Berners-Lee pada tahun 1991 sebagai
+solusi untuk berbagi informasi antar peneliti di CERN melalui jaringan internet.
+Sejak saat itu, HTML terus berkembang melalui berbagai versi yang distandarisasi
+oleh World Wide Web Consortium (W3C) dan WHATWG.
 
-HTML pertama kali dikembangkan pada tahun 1991 oleh Tim Berners-Lee ketika bekerja di CERN.
+Versi terkini, HTML5, membawa banyak peningkatan signifikan dibanding versi
+sebelumnya, antara lain dukungan native untuk audio dan video, elemen semantik
+seperti `<header>`, `<footer>`, dan `<section>`, serta kemampuan penyimpanan data
+lokal melalui localStorage. HTML5 juga memperkenalkan elemen `<canvas>` untuk
+rendering grafik 2D secara langsung di browser tanpa plugin tambahan.
 
-Tujuan awal pengembangan HTML adalah untuk memudahkan para peneliti dalam berbagi dokumen melalui jaringan internet.
-
-Seiring perkembangan teknologi web, HTML terus mengalami pembaruan hingga versi terbaru yaitu HTML5, yang mendukung berbagai fitur modern seperti multimedia, grafik, dan penyimpanan data lokal.
+Dalam praktiknya, HTML selalu digunakan bersama CSS untuk styling dan JavaScript
+untuk interaktivitas, membentuk tiga pilar utama dalam pengembangan web modern.
 
 ## Tugas 2 - Ujian Web Purba
 
