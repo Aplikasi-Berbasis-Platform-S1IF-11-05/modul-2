@@ -83,4 +83,4 @@ Seiring perkembangan teknologi web, HTML terus mengalami pembaruan hingga versi 
 </html>
 
 Output:
-<img alt="image" src="html.PNG" />
+<img alt="image" src=https://github.com/user-attachments/assets/1f27ff4e-82aa-4a91-818b-40b66284084b />
