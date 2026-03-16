@@ -41,10 +41,6 @@ Versi terkini HTML, yaitu HTML5, membawa banyak peningkatan signifikan dibanding
 
 ## Tugas 2 - Ujian Web Purba
 
-<!-- Geranada Saputra Priambudi
-2311102008
- -->
-
 ```
 <!DOCTYPE html>
 <html lang="en">
