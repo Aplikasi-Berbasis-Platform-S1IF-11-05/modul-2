@@ -10,9 +10,9 @@
   <br />
   <h3>Disusun Oleh :</h3>
   <p>
-    <strong>Ahmad Tegar Kahfi Asyngarinanto</strong>
+    <strong>Rafi Mulya Rizqi</strong>
     <br>
-    <strong>2311102083</strong>
+    <strong>2311102108</strong>
     <br>
     <strong>S1 IF-11-REG05</strong>
   </p>
