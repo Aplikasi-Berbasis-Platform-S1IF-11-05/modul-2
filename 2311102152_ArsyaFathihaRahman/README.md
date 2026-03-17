@@ -161,6 +161,8 @@ Pada penugasan ini, mahasiswa diminta untuk membuat sebuah tampilan tabel sederh
 </body>
 </html>
 
+```html
+
 ### 📸 Hasil Tampilan
 ![Hasil Tampilan](tugas2.png)
 
