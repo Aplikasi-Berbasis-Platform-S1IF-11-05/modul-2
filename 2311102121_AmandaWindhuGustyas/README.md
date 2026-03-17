@@ -39,12 +39,12 @@ HTML (HyperText Markup Language) merupakan bahasa markup standar yang digunakan 
 
 Secara umum, dokumen HTML memiliki struktur utama yang terdiri dari bagian kepala (head) dan badan (body). Bagian head berisi informasi mengenai dokumen, seperti judul halaman, sedangkan bagian body berisi konten utama yang akan ditampilkan kepada pengguna. Struktur ini menjadi kerangka dasar dalam setiap pembuatan halaman web, sehingga browser dapat memahami bagaimana cara menampilkan isi dokumen dengan benar.<br>
 
-- Elemen HTML adalah komponen utama dalam penyusunan halaman web. Setiap elemen memiliki fungsi tertentu, seperti:
-  1. Menampilkan judul atau heading
-  2. Menampilkan paragraf teks
-  3. Membuat tabel untuk menyajikan data
-  4. Menambahkan tautan (link) ke halaman lain
-  5. Menampilkan gambar
+Elemen HTML adalah komponen utama dalam penyusunan halaman web. Setiap elemen memiliki fungsi tertentu, seperti:
+  1. Menampilkan judul atau heading<br>
+  2. Menampilkan paragraf teks<br>
+  3. Membuat tabel untuk menyajikan data<br>
+  4. Menambahkan tautan (link) ke halaman lain<br>
+  5. Menampilkan gambar<br>
 Dengan kombinasi berbagai elemen tersebut, halaman web dapat disusun secara terstruktur dan informatif.
 
 Tabel dalam HTML digunakan untuk menyajikan data dalam bentuk baris dan kolom. Struktur tabel terdiri dari beberapa bagian utama, yaitu baris, kolom, dan sel data. Tabel sering digunakan untuk menampilkan informasi yang terorganisir, seperti daftar, jadwal, atau data numerik.<br>
