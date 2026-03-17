@@ -65,7 +65,8 @@ Selain elemen dasar, HTML5 memperkenalkan elemen semantic yang membawa makna khu
 
 
 ## Tugas 2 - Ujian Web Purba 
-<!-- 2311102257 - Retha Anggreani -->
+
+```
 <!DOCTYPE html>
 <html lang="id">
   <head>
@@ -107,6 +108,7 @@ Selain elemen dasar, HTML5 memperkenalkan elemen semantic yang membawa makna khu
     </center>
   </body>
 </html>
+```
 
 Output :
 
