@@ -10,7 +10,7 @@
   <br />
   <h3>Disusun Oleh :</h3>
   <p>
-    <strong>Rifqi Hemas pratama</strong>
+    <strong>Rifqi Hemas Pratama</strong>
     <br>
     <strong>2311102302</strong>
     <br>
