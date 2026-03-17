@@ -162,7 +162,5 @@ Pada penugasan ini, mahasiswa diminta untuk membuat sebuah tampilan tabel sederh
 </html>
 
 ### 📸 Hasil Tampilan
-![Tugas2](tugas2.png)
-<img width="1920" height="1080" alt="tugas2" src="https://github.com/user-attachments/assets/847cf111-540e-464c-b293-16a4f33efb26" />
-
+![Hasil Tampilan](tugas2.png)
 
