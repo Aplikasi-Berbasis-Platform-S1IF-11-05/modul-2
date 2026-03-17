@@ -35,7 +35,9 @@
 
 # Dasar Teori
 
-...
+HTML (HyperText Markup Language) merupakan bahasa markup standar yang digunakan untuk membangun dan menyusun struktur halaman web. HTML berfungsi untuk menentukan elemen-elemen yang akan ditampilkan pada browser, seperti teks, gambar, tabel, dan tautan. HTML bukan termasuk bahasa pemrograman karena tidak memiliki logika atau perhitungan, melainkan hanya digunakan untuk mengatur struktur dan tampilan dasar dari suatu halaman web. HTML terdiri dari sekumpulan tag yang digunakan untuk menandai setiap bagian dari dokumen. Tag biasanya ditulis berpasangan, yaitu tag pembuka dan tag penutup, yang membungkus suatu konten tertentu agar dapat dikenali oleh browser.<br>
+
+Secara umum, dokumen HTML memiliki struktur utama yang terdiri dari bagian kepala (head) dan badan (body). Bagian head berisi informasi mengenai dokumen, seperti judul halaman, sedangkan bagian body berisi konten utama yang akan ditampilkan kepada pengguna. Struktur ini menjadi kerangka dasar dalam setiap pembuatan halaman web, sehingga browser dapat memahami bagaimana cara menampilkan isi dokumen dengan benar.<br>
 
 # Tugas 1
 ```
