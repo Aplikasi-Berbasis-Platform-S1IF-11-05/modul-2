@@ -45,7 +45,7 @@ Elemen HTML adalah komponen utama dalam penyusunan halaman web. Setiap elemen me
   3. Membuat tabel untuk menyajikan data<br>
   4. Menambahkan tautan (link) ke halaman lain<br>
   5. Menampilkan gambar<br>
-Dengan kombinasi berbagai elemen tersebut, halaman web dapat disusun secara terstruktur dan informatif.
+Dengan kombinasi berbagai elemen tersebut, halaman web dapat disusun secara terstruktur dan informatif.<br>
 
 Tabel dalam HTML digunakan untuk menyajikan data dalam bentuk baris dan kolom. Struktur tabel terdiri dari beberapa bagian utama, yaitu baris, kolom, dan sel data. Tabel sering digunakan untuk menampilkan informasi yang terorganisir, seperti daftar, jadwal, atau data numerik.<br>
 
