@@ -107,7 +107,11 @@ Contoh:
 ## Deskripsi Tugas
 Pada penugasan ini, mahasiswa diminta untuk membuat sebuah tampilan tabel sederhana menggunakan HTML. Tabel tersebut harus berisi data dasar.
 
+---
 
+### 💻 Kode Program
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -116,28 +120,28 @@ Pada penugasan ini, mahasiswa diminta untuk membuat sebuah tampilan tabel sederh
 
 <body>
 
-<!-- // center horizontal -->
+<!-- center horizontal -->
 <center>
 
-    <!-- // kasih jarak biar agak ke tengah -->
+    <!-- kasih jarak biar agak ke tengah -->
     <br><br><br><br>
 
-    <!-- // tabel utama -->
+    <!-- tabel utama -->
     <table border="1" cellpadding="9" cellspacing="1">
 
-        <!-- // judul -->
+        <!-- judul -->
         <tr>
             <th colspan="3">Daftar Mahasiswa</th>
         </tr>
 
-        <!-- // header -->
+        <!-- header -->
         <tr>
             <th>Nama Lengkap</th>
             <th>NIM</th>
             <th>Kelas</th>
         </tr>
 
-        <!-- // data -->
+        <!-- data -->
         <tr>
             <td>Arsya Fathiha Rahman</td>
             <td>2311102152</td>
@@ -156,3 +160,8 @@ Pada penugasan ini, mahasiswa diminta untuk membuat sebuah tampilan tabel sederh
 
 </body>
 </html>
+
+### 📸 Hasil Tampilan
+<img width="1920" height="1080" alt="tugas2" src="https://github.com/user-attachments/assets/847cf111-540e-464c-b293-16a4f33efb26" />
+
+
