@@ -89,4 +89,4 @@ S1IF-11-05 -->
 ```
 
 Output:
-<img alt="image" src="ss_modul2.PNG" />
+<img alt="image" src="ss_modul2.png" />
