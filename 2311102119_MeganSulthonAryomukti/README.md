@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM </h1>
+  <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM</h1>
   <br />
   <h3>MODUL 2 <br> HTML </h3>
   <br />
