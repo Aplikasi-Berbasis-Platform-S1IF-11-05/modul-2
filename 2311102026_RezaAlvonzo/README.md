@@ -35,13 +35,46 @@
 
 ## Dasar Teori
 
-HTML adalah bahasa markup standar yang digunakan untuk membuat dan menyusun struktur halaman web. HTML berfungsi untuk menentukan elemen-elemen pada sebuah halaman seperti teks, gambar, tautan, tabel, dan formulir sehingga dapat ditampilkan oleh browser. 
+## 1. Definisi dan Filosofi HTML
+HyperText Markup Language (HTML) adalah bahasa markah standar yang digunakan untuk menyusun struktur semantik dan presentasi konten pada halaman web. Menurut World Wide Web Consortium (W3C), HTML bukanlah bahasa pemrograman (programming language) karena tidak memiliki logika kondisional atau struktur iterasi, melainkan sebuah bahasa deklaratif yang menggunakan "tag" untuk memberikan instruksi kepada peramban (browser) mengenai cara merender informasi.
 
-HTML menggunakan tag atau penanda tertentu untuk mengatur struktur dan tampilan dasar dari konten web. Bahasa ini pertama kali dikembangkan oleh Tim Berners-Lee pada awal perkembangan World Wide Web, dan hingga saat ini HTML menjadi dasar utama dalam pembuatan website yang biasanya dikombinasikan dengan teknologi lain seperti CSS dan JavaScript.
+Konsep HyperText merujuk pada teks yang mengandung tautan (link) ke teks lain, sementara Markup merujuk pada notasi yang digunakan untuk menandai bagian-bagian dokumen agar mesin dapat memahami perannya (misalnya sebagai judul, paragraf, atau tabel).
 
-HTML pertama kali dikembangkan pada tahun 1991 oleh Tim Berners-Lee, seorang ilmuwan komputer yang bekerja di CERN. HTML dibuat sebagai bahasa markup yang digunakan untuk menyusun dan menampilkan dokumen pada sistem World Wide Web. Pada awalnya HTML hanya memiliki beberapa tag sederhana untuk menampilkan teks dan tautan antar dokumen. 
+## 2. Anatomi dan Struktur Elemen HTML
+Setiap dokumen HTML dibangun dari unit terkecil yang disebut elemen. Elemen umumnya terdiri dari tiga komponen utama:
 
-Seiring perkembangan teknologi internet, HTML terus diperbarui dengan berbagai versi yang menambahkan fitur baru agar halaman web menjadi lebih interaktif dan terstruktur, hingga berkembang menjadi standar utama dalam pembuatan website yang digunakan di seluruh dunia.
+Tag Pembuka (Start Tag): Menandakan awal dari sebuah elemen (contoh: ``<table>``).
+
+Konten: Data atau informasi yang dibungkus oleh elemen tersebut.
+
+Tag Penutup (End Tag): Menandakan akhir elemen (contoh: ``</table>``).
+
+Elemen juga dapat memiliki Atribut, yaitu informasi tambahan yang diletakkan di dalam tag pembuka untuk memodifikasi perilaku atau tampilan elemen, seperti atribut border, align, atau bgcolor pada elemen tabel.
+
+## 3. Struktur Dokumen Standar
+Berdasarkan spesifikasi HTML5, setiap berkas HTML harus memiliki struktur dasar yang mencakup:
+
+``<!DOCTYPE html>``: Deklarasi untuk memberitahu browser bahwa dokumen ini menggunakan standar HTML5.
+
+``<html>``: Akar (root) dari seluruh dokumen.
+
+``<head>``: Bagian metadata yang tidak ditampilkan langsung di layar, seperti judul halaman (``<title>``) dan karakter set (utf-8).
+
+``<body>``: Bagian utama yang berisi seluruh konten visual yang akan berinteraksi langsung dengan pengguna.
+
+## 4. Implementasi Tabel dalam HTML
+Elemen tabel (``<table>``) digunakan untuk menyajikan data dalam format tabular (baris dan kolom). Dalam konteks akademik dan pengembangan web, tabel HTML diatur melalui hirarki tag berikut:
+
+``<tr>`` (Table Row): Mendefinisikan baris dalam tabel.
+
+``<th>`` (Table Header): Mendefinisikan sel tajuk yang secara default dicetak tebal dan rata tengah.
+
+``<td>`` (Table Data): Mendefinisikan sel data standar dalam tabel.
+
+Penggunaan atribut colspan dan rowspan sering diterapkan dalam desain tabel untuk melakukan penggabungan sel (cell merging), yang berfungsi meningkatkan keterbacaan data yang kompleks.
+
+## 5. Evolusi HTML dan Web Semantik
+Seiring perkembangan teknologi web, HTML telah berevolusi dari sekadar alat pemformatan teks menjadi fondasi web semantik. HTML5 memperkenalkan elemen yang lebih bermakna seperti ``<header>``, ``<footer>``, dan ``<article>``. Meskipun tampilan visual saat ini lebih banyak dikelola oleh CSS, pemahaman mendalam mengenai struktur HTML tetap menjadi fundamental bagi seorang Full-Stack Developer untuk memastikan aksesibilitas (accessibility) dan optimasi mesin pencari (SEO).
 
 ## Tugas 2 - Ujian Web Purba
 
