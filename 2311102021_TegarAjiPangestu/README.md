@@ -40,7 +40,8 @@ HTML (HyperText Markup Language) adalah bahasa markup standar yang digunakan unt
 Selain itu, HTML juga memungkinkan pengembang untuk menghubungkan satu halaman dengan halaman lain melalui hyperlink, sehingga membentuk jaringan informasi yang luas di internet. Dalam perkembangannya, HTML terus mengalami pembaruan, dan versi terbaru yaitu HTML5 mendukung berbagai fitur modern seperti audio, video, dan elemen grafis tanpa memerlukan plugin tambahan. HTML biasanya tidak bekerja sendiri, melainkan dikombinasikan dengan CSS (Cascading Style Sheets) untuk mengatur tampilan dan desain, serta JavaScript untuk menambahkan interaktivitas, sehingga menghasilkan halaman web yang lebih menarik, responsif, dan dinamis.
 
 # Tugas 2 Ujian web purba
-`<!-- 2311102021
+```
+<!-- 2311102021
 Tegar Aji Pangestu
 S1IF-11-05 -->
 
@@ -77,5 +78,6 @@ S1IF-11-05 -->
     </table>
 </body>
 </html>
+```
 Output:
 <img width="1901" height="961" alt="image" src="ss.png" />
