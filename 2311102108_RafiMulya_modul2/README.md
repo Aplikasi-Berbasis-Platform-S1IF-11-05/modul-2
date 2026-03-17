@@ -1,4 +1,4 @@
-EAD<div align="center">
+<div align="center">
   <br />
   <h1>LAPORAN PRAKTIKUM <br> APLIKASI BERBASIS PLATFORM </h1>
   <br />
