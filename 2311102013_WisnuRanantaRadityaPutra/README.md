@@ -46,6 +46,7 @@
 <p align="justify">
     Dengan HTML, pengembang dapat membuat struktur dasar halaman web yang kemudian dapat ditampilkan melalui browser, sehingga menjadi fondasi utama dalam pengembangan website.
 </p>
+
 ## Tugas 2 - Ujian Web Purba
 
 ```
