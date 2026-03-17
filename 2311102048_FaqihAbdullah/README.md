@@ -65,6 +65,8 @@ Pada praktikum modul ini, dibuat sebuah tabel sederhana yang menampilkan data de
 
 ## Source Code
 
+## Source Code
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -79,25 +81,28 @@ Pada praktikum modul ini, dibuat sebuah tabel sederhana yang menampilkan data de
 
 <table border="1">
 <tr>
-    <th rowspan="2">Nama Lengkap</th>
-    <th colspan="2">Gelar Pendidikan</th>
-    <th rowspan="2">Age</th>
+<th rowspan="2">Nama Lengkap</th>
+<th colspan="2">Gelar Pendidikan</th>
+<th rowspan="2">Age</th>
 </tr>
+
 <tr>
-    <th>Sarjana</th>
-    <th>Magister</th>
+<th>Sarjana</th>
+<th>Magister</th>
 </tr>
+
 <tr>
-    <td>Budi</td>
-    <td>S.Kom</td>
-    <td>M.Sc</td>
-    <td>35</td>
+<td>Budi</td>
+<td>S.Kom</td>
+<td>M.Sc</td>
+<td>35</td>
 </tr>
+
 <tr>
-    <td>Andi</td>
-    <td>S.SiKom</td>
-    <td>M.T</td>
-    <td>52</td>
+<td>Andi</td>
+<td>S.SiKom</td>
+<td>M.T</td>
+<td>52</td>
 </tr>
 
 </table>
