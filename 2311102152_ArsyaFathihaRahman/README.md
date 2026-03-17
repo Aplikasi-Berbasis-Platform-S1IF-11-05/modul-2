@@ -92,10 +92,6 @@ Beberapa konsep penting dalam HTML:
 | Self-closing | Tag tanpa penutup                               |
 | Nested       | Elemen yang berada di dalam elemen lain         |
 
-Contoh:
-```html
-<p>Contoh paragraf</p>
-
 
 # Tugas 2
 ```
