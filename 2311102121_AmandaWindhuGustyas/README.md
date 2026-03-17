@@ -93,5 +93,5 @@ Atribut merupakan informasi tambahan yang diberikan pada suatu elemen HTML. Atri
 </html>
 ```
 Output:
-<img width="1901" height="961" alt="image" src="https://tse2.mm.bing.net/th/id/OIP.kGeq-_RoQxh4olZNdoiBMwHaJQ?rs=1&pid=ImgDetMain&o=7&rm=3" />
+![Web](Web.png)
 
