@@ -35,13 +35,27 @@
 
 ## Dasar Teori
 
-HTML adalah bahasa markup standar yang digunakan untuk membuat dan menyusun struktur halaman web. HTML berfungsi untuk menentukan elemen-elemen pada sebuah halaman seperti teks, gambar, tautan, tabel, dan formulir sehingga dapat ditampilkan oleh browser. 
+HTML (HyperText Markup Language) adalah bahasa marka standar yang berfungsi sebagai "tulang punggung" atau arsitektur utama dalam pembuatan situs web. Tanpa HTML, browser tidak akan tahu bagaimana cara menampilkan teks, menyusun paragraf, atau meletakkan gambar secara teratur.
 
-HTML menggunakan tag atau penanda tertentu untuk mengatur struktur dan tampilan dasar dari konten web. Bahasa ini pertama kali dikembangkan oleh Tim Berners-Lee pada awal perkembangan World Wide Web, dan hingga saat ini HTML menjadi dasar utama dalam pembuatan website yang biasanya dikombinasikan dengan teknologi lain seperti CSS dan JavaScript.
+Fungsi dan Cara Kerja
+HTML bekerja dengan menggunakan sistem tag (penanda) yang mengapit konten untuk memberikan makna struktural. Beberapa elemen kunci yang diatur oleh HTML meliputi:
 
-HTML pertama kali dikembangkan pada tahun 1991 oleh Tim Berners-Lee, seorang ilmuwan komputer yang bekerja di CERN. HTML dibuat sebagai bahasa markup yang digunakan untuk menyusun dan menampilkan dokumen pada sistem World Wide Web. Pada awalnya HTML hanya memiliki beberapa tag sederhana untuk menampilkan teks dan tautan antar dokumen. 
+Struktur Teks: Mengatur judul (heading), paragraf, dan daftar (list).
 
-Seiring perkembangan teknologi internet, HTML terus diperbarui dengan berbagai versi yang menambahkan fitur baru agar halaman web menjadi lebih interaktif dan terstruktur, hingga berkembang menjadi standar utama dalam pembuatan website yang digunakan di seluruh dunia.
+Media: Menyisipkan elemen visual seperti gambar, audio, dan video.
+
+Navigasi: Membuat hyperlink yang menghubungkan satu dokumen dengan dokumen lainnya di seluruh internet.
+
+Interaksi Dasar: Menyediakan komponen formulir, tombol, dan tabel untuk pengolahan data sederhana.
+
+Sejarah dan Evolusi
+Lahirnya HTML tidak lepas dari visi Tim Berners-Lee, seorang fisikawan di CERN, yang memperkenalkannya pertama kali pada tahun 1991.
+
+Awal Mula: Pada versi awal, HTML sangat terbatas dan hanya fokus pada berbagi dokumen ilmiah berbasis teks antarpengguna di jaringan CERN.
+
+Modernisasi: Seiring meningkatnya kebutuhan pengguna, HTML berevolusi melalui berbagai versi (seperti HTML4 hingga HTML5 yang kita gunakan sekarang).
+
+Standarisasi: Kini, HTML dikelola oleh W3C (World Wide Web Consortium) untuk memastikan semua browser (seperti Chrome, Safari, dan Firefox) dapat menginterpretasikan kode yang sama dengan konsisten.
 
 ## Tugas 2 - Ujian Web Purba
 
