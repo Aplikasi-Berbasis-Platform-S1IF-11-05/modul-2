@@ -53,18 +53,42 @@ Atribut merupakan informasi tambahan yang diberikan pada suatu elemen HTML. Atri
 
 # Tugas 1
 ```
-//2311102xxx
-//My Bubub
+//2311102121
+//Amanda Windhu Gustyas
 
 <!DOCTYPE html>
-<html lang="id">
+<html>
 <head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Aku Cinta Telkom</title>
+    <title>Task 2 Web Purba</title>
 </head>
 <body>
-  ...
+
+<table width="100%" height="100%">
+    <tr>
+        <td align="center" valign="middle">
+
+            <table border="1">
+                <tr>
+                    <th>Nama</th>
+                    <th>NIM</th>
+                    <th>Prodi</th>
+                </tr>
+                <tr>
+                    <td>Amanda Windhu Gustyas</td>
+                    <td>2311102121</td>
+                    <td>Teknik Informatika</td>
+                </tr>
+                <tr>
+                    <td>Tyassandha</td>
+                    <td>1234567</td>
+                    <td>Teknik Kimia</td>
+                </tr>
+            </table>
+
+        </td>
+    </tr>
+</table>
+
 </body>
 </html>
 ```
